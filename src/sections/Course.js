@@ -30,7 +30,7 @@ function Course({ store }) {
             <p  className="text-left">
               常規班以日常生活為背景學習日語及日本文化。時間、人數、程度由教室安排。
             </p >
-            <p  className="text-left">課程分為以下5種程度：</p></div>
+            <p  className="text-left">課程分為以下4種程度：</p></div>
             <NormalCourseCard
               flow
               beware
